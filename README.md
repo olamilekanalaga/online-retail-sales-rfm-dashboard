@@ -95,6 +95,17 @@ The output file is saved at:
 outputs/cohort_retention.csv
 ```
 
+## Dashboard Preview
+
+### Sales Overview
+![Sales dashboard overview](screenshots/sales_overview.png)
+
+### RFM Customer Segments
+![RFM customer segments](screenshots/rfm_segments.png)
+
+### Cohort Retention
+![Cohort retention table](screenshots/cohort_retention.png)
+
 ## Dashboard Pages
 
 - Sales overview
